@@ -1,5 +1,5 @@
-# VLSI
-IIITDM coursework on VLSI
+# IIITDM coursework on VLSI
+
 
 Includes: 
 
